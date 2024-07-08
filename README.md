@@ -1,1 +1,2 @@
-# odin-recipes
+# odin-recipes 
+This is the first project in The Odin Project.  It is a basic recipe website that will consist of a main index page which will have links to a few recipes. This project is made completely with html.
